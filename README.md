@@ -5,4 +5,4 @@
 **How to play**  
 Use arrow keys to control the snake. Collect the spawning food to increase score and snake size.  
 🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍  
-All made by Euan O'Rourke 2020 [Twitter](http://twitter.com/euanorourke)  
+All made by [Euan O'Rourke 2020](http://twitter.com/euanorourke)  
